@@ -214,6 +214,6 @@ function 生成文章(){
 
 </script>
 <div>山姆的文章生成器</div>
-<div>主题<input value="一天掉多少根头发"></input></div>
+<div>主题<input value="一天掉多少根头发"></div>
 <div></div><button onclick="生成文章()">生成</button>
 <div id="论文"></div>
